@@ -21,13 +21,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X ] List anything else that you can get done to improve the app functionality!
+        Added an icon for the app!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/rlb0BId.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,9 +37,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+It was complicated for me to submit and use github! I haven't used it a lot already.  
+
 ## Credits
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
+    
+    Icon is a google image
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
