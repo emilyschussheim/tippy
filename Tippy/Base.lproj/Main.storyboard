@@ -126,7 +126,7 @@
                                 <rect key="frame" x="23" y="156" width="336" height="29"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <segments>
-                                    <segment title="15%"/>
+                                    <segment title="" image="pennies"/>
                                     <segment title="20%"/>
                                     <segment title="22%"/>
                                 </segments>
@@ -144,7 +144,6 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="nJS-4q-AM9"/>
                     </view>
                     <navigationItem key="navigationItem" id="NLj-jZ-lyF"/>
@@ -154,7 +153,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bD7-hL-wbt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1785" y="125"/>
+            <point key="canvasLocation" x="1784.8" y="124.58770614692655"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="JsM-QW-Itq">
@@ -176,4 +175,7 @@
             <point key="canvasLocation" x="-82.400000000000006" y="125.4872563718141"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="pennies" width="720" height="450"/>
+    </resources>
 </document>
