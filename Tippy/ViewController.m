@@ -23,6 +23,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //[self.billField endEditing:NO];
+    [self.billField becomeFirstResponder];
 }
 
 - (void)viewWillAppear:(BOOL)animated {
